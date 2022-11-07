@@ -13,7 +13,7 @@ public class Chien {
     System.out.println("Ouaf Ouaf");
   }
 
-  public void dormir(){
+  public void dormir (){
     System.out.println("ZZzzzzzz....");
   }
 }
